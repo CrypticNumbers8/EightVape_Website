@@ -2,9 +2,9 @@
 
 Eightvape website
 
-Landing Page
-Wireframes on Figma
-Golang in backend
+* Landing Page
+* Wireframes on Figma
+* Golang in backend
 
 [Eightvape Wireframes Final.pdf](https://github.com/CrypticNumbers8/EightVape_Website/blob/main/Eightvape%20Wireframes%20Final.pdf)
 
