@@ -2,8 +2,11 @@
 
 Eightvape website
 
-https://github.com/CrypticNumbers8/EightVape/assets/57065053/4f8067b7-8a0e-43ed-978b-52bb3a01d4b9
-
-https://github.com/CrypticNumbers8/EightVape_Website/blob/main/application_video.mp4
+1.Landing Page
+2.Wireframes on Figma
+3.Golang in backend
 
 [Eightvape Wireframes Final.pdf](https://github.com/CrypticNumbers8/EightVape_Website/blob/main/Eightvape%20Wireframes%20Final.pdf)
+
+https://github.com/CrypticNumbers8/EightVape_Website/assets/57065053/5b573d42-1a3b-432c-bb2c-e95198ecfa28
+
